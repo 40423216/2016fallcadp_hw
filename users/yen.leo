@@ -20,80 +20,91 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161013190948.1"><vh>@@edit index.html</vh></v>
-<v t="leo.20161014111031.1"><vh>@clean index.html</vh>
-<v t="leo.20161014111031.2" a="E"><vh>html</vh>
-<v t="leo.20161014111031.3"><vh>head</vh></v>
-<v t="leo.20161014111031.4" a="E"><vh>body</vh>
-<v t="leo.20161014111031.5" a="E"><vh>reveal div</vh>
-<v t="leo.20161014111031.6" a="E"><vh>slides div</vh>
-<v t="leo.20161014111031.7"><vh>封面投影片</vh>
-<v t="leo.20161014111031.8"><vh>封面投影片內容</vh></v>
+<v t="leo.20161111022458.1"><vh>@clean index.html</vh>
+<v t="leo.20161111022458.2" a="E"><vh>html</vh>
+<v t="leo.20161111022458.3"><vh>head</vh></v>
+<v t="leo.20161111022458.4" a="E"><vh>body</vh>
+<v t="leo.20161111022458.5" a="E"><vh>reveal div</vh>
+<v t="leo.20161111022458.6" a="E"><vh>slides div</vh>
+<v t="leo.20161111022458.7"><vh>封面投影片</vh>
+<v t="leo.20161111022458.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161014111031.9"><vh>三大主題教學</vh>
-<v t="leo.20161014111031.10" a="E"><vh>主題教學</vh>
-<v t="leo.20161014111031.11"><vh>電腦輔助設計在教什麼?</vh></v>
+<v t="leo.20161111022458.9"><vh>20160916W1</vh>
+<v t="leo.20161111022458.10"><vh>上課日期</vh>
+<v t="leo.20161111022458.11"><vh>20160916</vh></v>
 </v>
-<v t="leo.20161014111031.12" a="E"><vh>主題教學內容</vh>
-<v t="leo.20161014111031.13"><vh>電腦輔助設計在教什麼?</vh></v>
-</v>
-<v t="leo.20161014111031.14" a="E"><vh>相關課程</vh>
-<v t="leo.20161014111031.15"><vh>電腦輔助設計系列課程</vh></v>
-</v>
-<v t="leo.20161014111031.16" a="E"><vh>創造力</vh>
-<v t="leo.20161014111031.17"><vh>何謂創造力?</vh></v>
-</v>
-<v t="leo.20161014111031.18" a="E"><vh>創造力</vh>
-<v t="leo.20161014111031.19"><vh>何謂創造力?</vh></v>
-</v>
-<v t="leo.20161014111031.20" a="E"><vh>所謂自學</vh>
-<v t="leo.20161014111031.21"><vh>自學的訓練</vh></v>
-</v>
-<v t="leo.20161014111031.22" a="E"><vh>執行力</vh>
-<v t="leo.20161014111031.23"><vh>高效執行力</vh></v>
+<v t="leo.20161111022458.12"><vh>上課內容1</vh>
+<v t="leo.20161111022458.13"><vh>中秋連假</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.24"><vh>電腦輔助設計課程內涵</vh>
-<v t="leo.20161014111031.25" a="E"><vh>電腦輔助設計課程內涵</vh>
-<v t="leo.20161014111031.26"><vh>CAD 教學主題</vh></v>
+<v t="leo.20161111022458.14"><vh>20160923W2</vh>
+<v t="leo.20161111022458.15"><vh>上課日期</vh>
+<v t="leo.20161111022458.16"><vh>20160923</vh></v>
 </v>
-<v t="leo.20161014111031.27"><vh>Github pages 網頁</vh>
-<v t="leo.20161014111031.28"><vh>各學員任務</vh></v>
+<v t="leo.20161111022458.17"><vh>上課內容1</vh>
+<v t="leo.20161111022458.18"><vh>建立40423216.github.io名稱的倉儲</vh></v>
 </v>
-<v t="leo.20161014111031.29"><vh>所有操作都必須拍影片</vh>
-<v t="leo.20161014111031.30"><vh>操作影片</vh></v>
-</v>
-<v t="leo.20161014111031.31"><vh>Solvespace 操作練習</vh>
-<v t="leo.20161014111031.32"><vh>Solvespace 實習</vh></v>
-</v>
-<v t="leo.20161014111031.33"><vh>OnShape 操作練習</vh>
-<v t="leo.20161014111031.34"><vh>OnShape 實習</vh></v>
-</v>
-<v t="leo.20161014111031.35"><vh>網際自評系統</vh>
-<v t="leo.20161014111031.36"><vh>Flask 網際程式</vh></v>
+<v t="leo.20161111022458.19"><vh>上課內容2</vh>
+<v t="leo.20161111022458.20"><vh>把分支的預設值改為gh-pages</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.37" a="E"><vh>Windows 環境下可攜環境</vh>
-<v t="leo.20161014111031.38" a="E"><vh>下載 miniconda 可攜環境</vh>
-<v t="leo.20161014111031.39"><vh>下載可攜程式環境</vh></v>
+<v t="leo.20161111022458.21"><vh>20160930W3</vh>
+<v t="leo.20161111022458.22"><vh>上課日期</vh>
+<v t="leo.20161111022458.23"><vh>20160930</vh></v>
+</v>
+<v t="leo.20161111022458.24"><vh>上課內容1</vh>
+<v t="leo.20161111022458.25"><vh>複製網誌和簡報的設定檔到2016fallcadp_hw的倉儲</vh></v>
+</v>
+<v t="leo.20161111022458.26"><vh>上課內容2</vh>
+<v t="leo.20161111022458.27"><vh>更改2016fallcadp_hw的README.md檔案</vh></v>
 </v>
 </v>
-<v t="leo.20161014111031.40"><vh>各式內容引用範例</vh>
-<v t="leo.20161014111031.41" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20161014111031.42"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20161111022458.28"><vh>20161007W4</vh>
+<v t="leo.20161111022458.29"><vh>上課日期</vh>
+<v t="leo.20161111022458.30"><vh>20161007</vh></v>
 </v>
-<v t="leo.20161014111031.43" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20161014111031.44"><vh>引用程式碼</vh></v>
+<v t="leo.20161111022458.31"><vh>上課內容1</vh>
+<v t="leo.20161111022458.32"><vh>設定使用者資料,讓可攜程式更方便</vh></v>
 </v>
-<v t="leo.20161014111031.45" a="E"><vh>導入影片</vh>
-<v t="leo.20161014111031.46"><vh>iframe 導入影片</vh></v>
-</v>
-</v>
+<v t="leo.20161111022458.33"><vh>上課內容2</vh>
+<v t="leo.20161111022458.34"><vh>用2016fallcadp_bg6的名稱,建立小組倉儲</vh></v>
 </v>
 </v>
+<v t="leo.20161111022458.35"><vh>20161014W5</vh>
+<v t="leo.20161111022458.36"><vh>上課日期</vh>
+<v t="leo.20161111022458.37"><vh>20161014</vh></v>
+</v>
+<v t="leo.20161111022458.38"><vh>上課內容1</vh>
+<v t="leo.20161111022458.39"><vh>初步認識SolveSpace</vh></v>
+</v>
+</v>
+<v t="leo.20161111022458.40"><vh>20161021W6</vh>
+<v t="leo.20161111022458.41"><vh>上課日期</vh>
+<v t="leo.20161111022458.42"><vh>20161021</vh></v>
+</v>
+<v t="leo.20161111022458.43"><vh>上課內容1</vh>
+<v t="leo.20161111022458.44"><vh>解決子模組在對應上的問題</vh></v>
+</v>
+</v>
+<v t="leo.20161111022458.45"><vh>20161028W7</vh>
+<v t="leo.20161111022458.46"><vh>上課日期</vh>
+<v t="leo.20161111022458.47"><vh>20161028</vh></v>
+</v>
+<v t="leo.20161111022458.48"><vh>上課內容1</vh>
+<v t="leo.20161111022458.49"><vh>使用Trace Point計算路徑</vh></v>
+</v>
+</v>
+<v t="leo.20161111022458.50"><vh>20161104W8</vh>
+<v t="leo.20161111022458.51"><vh>上課日期</vh>
+<v t="leo.20161111022458.52"><vh>20161104</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+</v>
+</v>
+</v>
+</v>
+<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -108,11 +119,18 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit 20160916.md</vh></v>
+<v t="leo.20161111013357.1"><vh>@edit 20160923.md</vh></v>
+<v t="leo.20161111013803.1"><vh>@edit 20160930.md</vh></v>
+<v t="leo.20161111013809.1"><vh>@edit 20161007.md</vh></v>
+<v t="leo.20161111013815.1"><vh>@edit 20161014.md</vh></v>
+<v t="leo.20161111013820.1"><vh>@edit 20161021.md</vh></v>
+<v t="leo.20161111013824.1"><vh>@edit 20161028.md</vh></v>
+<v t="leo.20161111013830.1"><vh>@edit 20161104.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -267,495 +285,375 @@ redirecting ....
 &lt;body&gt;
 &lt;/body&gt;
 &lt;/html&gt;</t>
-<t tx="leo.20161014111031.1">@language xml
+<t tx="leo.20161111022458.1">@language xml
 @tabwidth -4
 @others
+
 </t>
-<t tx="leo.20161014111031.10">                              
-				&lt;!-- Example of nested vertical slides --&gt;
+<t tx="leo.20161111022458.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-							&lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
-						&lt;/a&gt;
-					&lt;/section&gt;
-					&lt;section&gt;
-						&lt;h2&gt;Basement Level 1&lt;/h2&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
 </t>
-<t tx="leo.20161014111031.11">				&lt;section&gt;
-					&lt;section&gt;
-						&lt;h2&gt;Vertical Slides&lt;/h2&gt;
-						&lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-						&lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-						&lt;br&gt;
-						&lt;a href="#" class="navigate-down"&gt;
+<t tx="leo.20161111022458.11">## 2016-09-16 第一週
+
 </t>
-<t tx="leo.20161014111031.12">						&lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-					&lt;/section&gt;
+<t tx="leo.20161111022458.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-					&lt;/section&gt;
-				&lt;/section&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
 
-				&lt;section&gt;
-					&lt;h2&gt;Slides&lt;/h2&gt;
+
+						
 </t>
-<t tx="leo.20161014111031.13">					&lt;section&gt;
-						&lt;h2&gt;Basement Level 2&lt;/h2&gt;
-						&lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-						&lt;br&gt;
-						&lt;a href="#/2"&gt;
-							&lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);"&gt;
-						&lt;/a&gt;
+<t tx="leo.20161111022458.13">中秋連假
+
 </t>
-<t tx="leo.20161014111031.14">					&lt;p&gt;
-						Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="http://slides.com" target="_blank"&gt;http://slides.com&lt;/a&gt;.
+<t tx="leo.20161111022458.14">&lt;section&gt;
 @others
-					&lt;p&gt;
-						Hold down alt and click on any element to zoom in on it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Alt + click anywhere to zoom back out.
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-</t>
-<t tx="leo.20161014111031.15">					&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Point of View&lt;/h2&gt;
-					&lt;p&gt;
-						Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-					&lt;/p&gt;
-</t>
-<t tx="leo.20161014111031.16">				&lt;section&gt;
-					&lt;h2&gt;Touch Optimized&lt;/h2&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20161111022458.15">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-						## Markdown support
+    &lt;/script&gt;
+&lt;/section&gt;
 
-						Write content using inline or external Markdown.
-						Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
+
+						
+</t>
+<t tx="leo.20161111022458.16">## 2016-09-23 第二週
 
 </t>
-<t tx="leo.20161014111031.17">					&lt;p&gt;
-						Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section data-markdown&gt;
-					&lt;script type="text/template"&gt;
-</t>
-<t tx="leo.20161014111031.18">						```
-						&lt;section data-markdown&gt;
+<t tx="leo.20161111022458.17">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-				&lt;/section&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
 
-				&lt;section&gt;
-					&lt;section id="fragments"&gt;
-						&lt;h2&gt;Fragments&lt;/h2&gt;
-</t>
-<t tx="leo.20161014111031.19">						  ## Markdown support
 
-						  Write content using inline or external Markdown.
-						  Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-						&lt;/section&gt;
-						```
-					&lt;/script&gt;
+						
 </t>
-<t tx="leo.20161014111031.2">&lt;!doctype html&gt;
+<t tx="leo.20161111022458.18">## 建立
+## 40423216.github.io名稱的倉儲
+
+&lt;iframe src="https://player.vimeo.com/video/191049401" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20161111022458.19">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111022458.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
 &lt;/html&gt;
 </t>
-<t tx="leo.20161014111031.20">						&lt;p&gt;Hit the next arrow...&lt;/p&gt;
-						&lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
+<t tx="leo.20161111022458.20">## 把分支的預設值改為gh-pages
+
+&lt;iframe src="https://player.vimeo.com/video/191049403" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161111022458.21">&lt;section&gt;
 @others
-						&lt;h2&gt;Fragment Styles&lt;/h2&gt;
-						&lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-						&lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-						&lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-						&lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-</t>
-<t tx="leo.20161014111031.21">						&lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-						&lt;aside class="notes"&gt;
-							This slide has fragments which are also stepped through in the notes window.
-						&lt;/aside&gt;
-					&lt;/section&gt;
-					&lt;section&gt;
-</t>
-<t tx="leo.20161014111031.22">						&lt;p class="fragment fade-up"&gt;fade-up (also down, left and right!)&lt;/p&gt;
-						&lt;p class="fragment current-visible"&gt;current-visible&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20161111022458.22">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-						&lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-						&lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-						&lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-						&lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-						&lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-</t>
-<t tx="leo.20161014111031.23">						&lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-					&lt;/section&gt;
-				&lt;/section&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
 
-				&lt;section id="transitions"&gt;
-					&lt;h2&gt;Transition Styles&lt;/h2&gt;
-					&lt;p&gt;
-						You can select from different transitions, like: &lt;br&gt;
+
+						
 </t>
-<t tx="leo.20161014111031.24">					&lt;/p&gt;
+<t tx="leo.20161111022458.23">## 2016-09-30 第三週
+
+</t>
+<t tx="leo.20161111022458.24">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-						&lt;li&gt;Or here&lt;/li&gt;
-</t>
-<t tx="leo.20161014111031.25">				&lt;/section&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
 
+
+						
+</t>
+<t tx="leo.20161111022458.25">## 複製網誌和簡報的設定檔
+## 到2016fallcadp_hw的倉儲
+
+&lt;iframe src="https://player.vimeo.com/video/191049407" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20161111022458.26">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
-					&lt;/p&gt;
-</t>
-<t tx="leo.20161014111031.26">				&lt;section id="themes"&gt;
-					&lt;h2&gt;Themes&lt;/h2&gt;
-					&lt;p&gt;
-						reveal.js comes with a few themes built in: &lt;br&gt;
-						&lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; &lt;br&gt;
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
-</t>
-<t tx="leo.20161014111031.27">				&lt;/section&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
 
+
+						
+</t>
+<t tx="leo.20161111022458.27">## 更改2016fallcadp_hw的
+## README.md檔案
+
+&lt;iframe src="https://player.vimeo.com/video/191049406" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20161111022458.28">&lt;section&gt;
 @others
-					&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png"&gt;
-						&lt;h2&gt;Image Backgrounds&lt;/h2&gt;
-						&lt;pre&gt;&lt;code class="hljs"&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-					&lt;/section&gt;
-					&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
-</t>
-<t tx="leo.20161014111031.28">				&lt;section&gt;
-					&lt;section data-background="#dddddd"&gt;
-						&lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
-						&lt;p&gt;
-							Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
-						&lt;/p&gt;
-						&lt;a href="#" class="navigate-down"&gt;
-							&lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
-						&lt;/a&gt;
-					&lt;/section&gt;
-</t>
-<t tx="leo.20161014111031.29">						&lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
-						&lt;pre&gt;&lt;code class="hljs" style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20161111022458.29">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-					&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
-						&lt;h2&gt;... and GIFs!&lt;/h2&gt;
-					&lt;/section&gt;
-				&lt;/section&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111022458.3">&lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+&lt;title&gt;
+2016 Fall 電腦輔助設計實習課程
+&lt;/title&gt;
+    &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
+    &lt;meta name="author" content="Hakim El Hattab"&gt;
+    
+    &lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;
+    &lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"&gt;
+    
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
+    
+    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/reveal.css"&gt;
+    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css" id="theme"&gt;
+    
+    &lt;!-- Theme used for syntax highlighting of code --&gt;
+    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/lib/css/zenburn.css"&gt;
+
+    &lt;!-- Printing and PDF exports --&gt;
+    &lt;script&gt;
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cad-lab.github.io/cadlab_data/reveal/css/print/pdf.css' : 'https://cad-lab.github.io/cadlab_data/reveal/css/print/paper.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    &lt;/script&gt;
+
+    &lt;!--[if lt IE 9]&gt;
+    &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/html5shiv.js"&gt;&lt;/script&gt;
+    &lt;![endif]--&gt;
+&lt;/head&gt;
 
 </t>
-<t tx="leo.20161014111031.3">
-	&lt;head&gt;
-		&lt;meta charset="utf-8"&gt;
+<t tx="leo.20161111022458.30">## 2016-10-07 第四週
 
-		&lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
-
-		&lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
-		&lt;meta name="author" content="Hakim El Hattab"&gt;
-
-		&lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;
-		&lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"&gt;
-
-		&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
-
-		&lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/reveal.css"&gt;
-		&lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css" id="theme"&gt;
-
-		&lt;!-- Theme used for syntax highlighting of code --&gt;
-		&lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/lib/css/zenburn.css"&gt;
-
-		&lt;!-- Printing and PDF exports --&gt;
-		&lt;script&gt;
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cad-lab.github.io/cadlab_data/reveal/css/print/pdf.css' : 'https://cad-lab.github.io/cadlab_data/reveal/css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		&lt;/script&gt;
-
-		&lt;!--[if lt IE 9]&gt;
-		&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/html5shiv.js"&gt;&lt;/script&gt;
-		&lt;![endif]--&gt;
-	&lt;/head&gt;
 </t>
-<t tx="leo.20161014111031.30">					&lt;/section&gt;
-					&lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-color="#000000"&gt;
-						&lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
-							&lt;h2&gt;Video Backgrounds&lt;/h2&gt;
-							&lt;pre&gt;&lt;code class="hljs" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-						&lt;/div&gt;
-					&lt;/section&gt;
-</t>
-<t tx="leo.20161014111031.31">				&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
-					&lt;h2&gt;Background Transitions&lt;/h2&gt;
+<t tx="leo.20161111022458.31">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-					&lt;p&gt;
-						You can override background transitions per-slide.
-					&lt;/p&gt;
-					&lt;pre&gt;&lt;code class="hljs" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-				&lt;/section&gt;
-</t>
-<t tx="leo.20161014111031.32">					&lt;p&gt;
-						Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-					&lt;/p&gt;
-					&lt;pre&gt;&lt;code class="hljs"&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;&lt;/pre&gt;
-				&lt;/section&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
 
-				&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
-					&lt;h2&gt;Background Transitions&lt;/h2&gt;
+
+
+						
 </t>
-<t tx="leo.20161014111031.33">
-				&lt;section&gt;
+<t tx="leo.20161111022458.32">## 設定使用者資料
+## 讓可攜程式更方便
+
+&lt;iframe src="https://player.vimeo.com/video/191049422" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161111022458.33">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-      var node = nodes[i];
+    &lt;/script&gt;
+&lt;/section&gt;
 
-      if( !node.className ) {
-        node.className += ' roll';
-      }
+
+
+						
 </t>
-<t tx="leo.20161014111031.34">					&lt;h2&gt;Pretty Code&lt;/h2&gt;
-					&lt;pre&gt;&lt;code class="hljs" data-trim contenteditable&gt;
-function linkify( selector ) {
-  if( supports3DTransforms ) {
+<t tx="leo.20161111022458.34">## 用2016fallcadp_bg6的名稱
+## 建立小組倉儲
 
-    var nodes = document.querySelectorAll( selector );
-
-    for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
-</t>
-<t tx="leo.20161014111031.35">    }
-  }
+&lt;iframe src="https://player.vimeo.com/video/191049409" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161111022458.35">&lt;section&gt;
 @others
-				&lt;section&gt;
-					&lt;h2&gt;Marvelous List&lt;/h2&gt;
-					&lt;ul&gt;
-						&lt;li&gt;No order here&lt;/li&gt;
-						&lt;li&gt;Or here&lt;/li&gt;
-</t>
-<t tx="leo.20161014111031.36">}
-					&lt;/code&gt;&lt;/pre&gt;
-					&lt;p&gt;Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-				&lt;/section&gt;
-
-</t>
-<t tx="leo.20161014111031.37">						&lt;li&gt;Or here&lt;/li&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20161111022458.36">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-						&lt;thead&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
 </t>
-<t tx="leo.20161014111031.38">					&lt;/ul&gt;
-				&lt;/section&gt;
+<t tx="leo.20161111022458.37">## 2016-10-14 第五週
+
+</t>
+<t tx="leo.20161111022458.38">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-				&lt;/section&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
 
-				&lt;section&gt;
-					&lt;h2&gt;Tabular Tables&lt;/h2&gt;
-					&lt;table&gt;
+
+						
 </t>
-<t tx="leo.20161014111031.39">
-				&lt;section&gt;
-					&lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
-					&lt;ol&gt;
-						&lt;li&gt;One is smaller than...&lt;/li&gt;
-						&lt;li&gt;Two is smaller than...&lt;/li&gt;
-						&lt;li&gt;Three!&lt;/li&gt;
-					&lt;/ol&gt;
+<t tx="leo.20161111022458.39">## 初步認識SolveSpace
+
+&lt;iframe src="https://player.vimeo.com/video/191049410" width="640" height="437" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
-<t tx="leo.20161014111031.4">
+<t tx="leo.20161111022458.4">&lt;body&gt;
 @others
-					&lt;/p&gt;
-				&lt;/section&gt;
+&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+        // More info https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
 
-				&lt;section data-state="customevent"&gt;
-					&lt;h2&gt;State Events&lt;/h2&gt;
-					&lt;p&gt;
-						Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
-					&lt;/p&gt;
-					&lt;pre&gt;&lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
-Reveal.addEventListener( 'customevent', function() {
-	console.log( '"customevent" has fired' );
-} );
-					&lt;/code&gt;&lt;/pre&gt;
-				&lt;/section&gt;
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
 
-				&lt;section&gt;
-					&lt;h2&gt;Take a Moment&lt;/h2&gt;
-					&lt;p&gt;
-						Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Much more&lt;/h2&gt;
-					&lt;ul&gt;
-						&lt;li&gt;Right-to-left support&lt;/li&gt;
-						&lt;li&gt;&lt;a href="https://github.com/hakimel/reveal.js#api"&gt;Extensive JavaScript API&lt;/a&gt;&lt;/li&gt;
-						&lt;li&gt;&lt;a href="https://github.com/hakimel/reveal.js#auto-sliding"&gt;Auto-progression&lt;/a&gt;&lt;/li&gt;
-						&lt;li&gt;&lt;a href="https://github.com/hakimel/reveal.js#parallax-background"&gt;Parallax backgrounds&lt;/a&gt;&lt;/li&gt;
-						&lt;li&gt;&lt;a href="https://github.com/hakimel/reveal.js#keyboard-bindings"&gt;Custom keyboard bindings&lt;/a&gt;&lt;/li&gt;
-					&lt;/ul&gt;
-				&lt;/section&gt;
-
-				&lt;section style="text-align: left;"&gt;
-					&lt;h1&gt;THE END&lt;/h1&gt;
-					&lt;p&gt;
-						- &lt;a href="http://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
-						- &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-			&lt;/div&gt;
-
-		&lt;/div&gt;
-
-		&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"&gt;&lt;/script&gt;
-		&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"&gt;&lt;/script&gt;
-
-		&lt;script&gt;
-
-			// More info https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				controls: true,
-				progress: true,
-				history: true,
-				center: true,
-
-				transition: 'slide', // none/fade/slide/convex/concave/zoom
-
-				// More info https://github.com/hakimel/reveal.js#dependencies
-				dependencies: [
-					{ src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-					{ src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/zoom-js/zoom.js', async: true },
-					{ src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/notes/notes.js', async: true }
-				]
-			});
-
-		&lt;/script&gt;
-
-	&lt;/body&gt;
+            // More info https://github.com/hakimel/reveal.js#dependencies
+            dependencies: [
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/zoom-js/zoom.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/notes/notes.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/math/math.js', async: true }
+            ]
+        });
+&lt;/script&gt;
+&lt;/body&gt;
 </t>
-<t tx="leo.20161014111031.40">							&lt;tr&gt;
+<t tx="leo.20161111022458.40">&lt;section&gt;
 @others
-					&lt;h2&gt;Global State&lt;/h2&gt;
-</t>
-<t tx="leo.20161014111031.41">								&lt;th&gt;Item&lt;/th&gt;
-								&lt;th&gt;Value&lt;/th&gt;
-								&lt;th&gt;Quantity&lt;/th&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20161111022458.41">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-								&lt;td&gt;7&lt;/td&gt;
-							&lt;/tr&gt;
-							&lt;tr&gt;
-								&lt;td&gt;Lemonade&lt;/td&gt;
-								&lt;td&gt;$2&lt;/td&gt;
-								&lt;td&gt;18&lt;/td&gt;
-</t>
-<t tx="leo.20161014111031.42">							&lt;/tr&gt;
-						&lt;/thead&gt;
-						&lt;tbody&gt;
-							&lt;tr&gt;
-								&lt;td&gt;Apples&lt;/td&gt;
-								&lt;td&gt;$1&lt;/td&gt;
-</t>
-<t tx="leo.20161014111031.43">							&lt;/tr&gt;
-							&lt;tr&gt;
-								&lt;td&gt;Bread&lt;/td&gt;
-@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-				&lt;section&gt;
-					&lt;h2&gt;Speaker View&lt;/h2&gt;
-					&lt;p&gt;There's a &lt;a href="https://github.com/hakimel/reveal.js#speaker-notes"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.&lt;/p&gt;
-					&lt;p&gt;Press the &lt;em&gt;S&lt;/em&gt; key to try it out.&lt;/p&gt;
+
+						
+</t>
+<t tx="leo.20161111022458.42">## 2016-10-21 第六週
 
 </t>
-<t tx="leo.20161014111031.44">								&lt;td&gt;$3&lt;/td&gt;
-								&lt;td&gt;2&lt;/td&gt;
-							&lt;/tr&gt;
-@language python
-						&lt;/tbody&gt;
-					&lt;/table&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Clever Quotes&lt;/h2&gt;
-					&lt;p&gt;
-						These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-						&amp;ldquo;The nice thing about standards is that there are so many to choose from&amp;rdquo;&lt;/q&gt; and block:
-					&lt;/p&gt;
-					&lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-						&amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-						reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
-					&lt;/blockquote&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Intergalactic Interconnections&lt;/h2&gt;
-					&lt;p&gt;
-						You can link between slides internally,
-						&lt;a href="#/2/3"&gt;like this&lt;/a&gt;.
-					&lt;/p&gt;
-				&lt;/section&gt;
-</t>
-<t tx="leo.20161014111031.45">					&lt;aside class="notes"&gt;
-						Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
+<t tx="leo.20161111022458.43">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-					&lt;p&gt;Presentations can be &lt;a href="https://github.com/hakimel/reveal.js#pdf-export"&gt;exported to PDF&lt;/a&gt;, here's an example:&lt;/p&gt;
-					&lt;iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
-				&lt;/section&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
 
-				&lt;section&gt;
-</t>
-<t tx="leo.20161014111031.46">					&lt;/aside&gt;
-				&lt;/section&gt;
 
-				&lt;section&gt;
-					&lt;h2&gt;Export to PDF&lt;/h2&gt;
+						
 </t>
-<t tx="leo.20161014111031.5">	&lt;body&gt;
-@others
-						will be added as a class to the document element when the slide is open. This lets you
-						apply broader style changes, like switching the page background.
-</t>
-<t tx="leo.20161014111031.6">
-		&lt;div class="reveal"&gt;
-@others
-					&lt;p&gt;
-						Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and &lt;code&gt;"something"&lt;/code&gt;
-</t>
-<t tx="leo.20161014111031.7">
-			&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-@others
-				&lt;/section&gt;
-				
-                               &lt;section&gt;
-					&lt;h2&gt;碰到了GITHUB雖然有些小基礎,但有時候還是跟不上進度需要東跑西跑問一下同學才行&lt;/h2&gt;
-				
-</t>
-<t tx="leo.20161014111031.8">			&lt;div class="slides"&gt;
-				&lt;section&gt;
-					&lt;h1&gt;40423216 李彥錞 計算機程式課程&lt;/h1&gt;
-					&lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-					&lt;p&gt;
-						&lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; / &lt;a href="http://twitter.com/hakimel"&gt;@hakimel&lt;/a&gt;&lt;/small&gt;
-					&lt;/p&gt;
-                    &lt;a href="blog/index.html"&gt;blog&lt;/a&gt;
-				&lt;/section&gt;
+<t tx="leo.20161111022458.44">## 解決子模組在對應上的問題
 
-				&lt;section&gt;
-					&lt;h2&gt;github_intro&lt;/h2&gt;
- &lt;iframe src="https://player.vimeo.com/video/189152572" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/189152572"&gt;40423216四設計二乙李彥錞&lt;/a&gt; from &lt;a href="https://vimeo.com/user57340245"&gt;林德威&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;因為之前的2016fallcadp_hw倉儲少複製了一些東西,刪除舊的倉儲後,重新做一個和之前倉儲同名的2016fallcadp_hw倉儲,但是在小組倉儲所連結的子模組,抓不到新倉儲連結,所以我們需要重新加入一次組員倉儲的資料&lt;/p&gt;
+
+
 </t>
-<t tx="leo.20161014111031.9">                              &lt;/section&gt;
+<t tx="leo.20161111022458.45">&lt;section&gt;
 @others
-						&lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20161111022458.46">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111022458.47">## 2016-10-28 第七週
+
+</t>
+<t tx="leo.20161111022458.48">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111022458.49">## 使用Trace Point計算路徑
+
+&lt;iframe src="https://player.vimeo.com/video/191049423" width="640" height="437" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20161111022458.5">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20161111022458.50">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161111022458.51">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111022458.52">## 2016-11-04 第八週
+
+</t>
+<t tx="leo.20161111022458.6">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20161111022458.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161111022458.8">## 2016Fall 電腦輔助設計實習課程
+### 虎科大機械設計工程系
+### 設計二乙
+### 40423216
+### 李彥錞
+
+&lt;small&gt;
+Created by [40423216](https://40423216.github.io/2016fallcadp_hw/blog/)
+&lt;/small&gt;
+
+[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)</t>
+<t tx="leo.20161111022458.9">&lt;section&gt;
+@others
+&lt;/section&gt;
 </t>
 </tnodes>
 </leo_file>
