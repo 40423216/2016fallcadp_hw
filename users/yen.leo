@@ -17,6 +17,7 @@
 <v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
+<v t="leo.20161118111539.1"><vh>@button https server</vh></v>
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161013190948.1"><vh>@@edit index.html</vh></v>
@@ -127,6 +128,7 @@
 <v t="leo.20161111013820.1"><vh>@edit 20161021.md</vh></v>
 <v t="leo.20161111013824.1"><vh>@edit 20161028.md</vh></v>
 <v t="leo.20161111013830.1"><vh>@edit 20161104.md</vh></v>
+<v t="leo.20161118112132.1"><vh>@edit 20161118.md</vh></v>
 </v>
 </v>
 </v>
@@ -655,5 +657,27 @@ Created by [40423216](https://40423216.github.io/2016fallcadp_hw/blog/)
 @others
 &lt;/section&gt;
 </t>
+<t tx="leo.20161118111539.1">@language python
+import os
+import subprocess
+import threading
+import http.server, ssl
+
+def domake():
+    # build directory
+    os.chdir("./../")
+    server_address = ('localhost', 8443)
+    httpd = http.server.HTTPServer(server_address, http.server.SimpleHTTPRequestHandler)
+    httpd.socket = ssl.wrap_socket(httpd.socket,
+                                   server_side=True,
+                                   certfile='localhost.crt',
+                                   keyfile='localhost.key',
+                                   ssl_version=ssl.PROTOCOL_TLSv1)
+    print("8443 https server started")
+    httpd.serve_forever()
+
+# 利用執行緒執行 https 伺服器
+make = threading.Thread(target=domake)
+make.start()</t>
 </tnodes>
 </leo_file>
