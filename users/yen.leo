@@ -21,7 +21,7 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161013190948.1"><vh>@@edit index.html</vh></v>
-<v t="leo.20161111022458.1"><vh>@clean index.html</vh>
+<v t="leo.20161111022458.1" a="E"><vh>@clean index.html</vh>
 <v t="leo.20161111022458.2" a="E"><vh>html</vh>
 <v t="leo.20161111022458.3"><vh>head</vh></v>
 <v t="leo.20161111022458.4" a="E"><vh>body</vh>
@@ -95,9 +95,14 @@
 <v t="leo.20161111022458.49"><vh>使用Trace Point計算路徑</vh></v>
 </v>
 </v>
-<v t="leo.20161111022458.50"><vh>20161104W8</vh>
-<v t="leo.20161111022458.51"><vh>上課日期</vh>
+<v t="leo.20161111022458.50" a="E"><vh>20161104W8</vh>
+<v t="leo.20161111022458.51" a="E"><vh>上課日期</vh>
 <v t="leo.20161111022458.52"><vh>20161104</vh></v>
+</v>
+</v>
+<v t="leo.20161209120916.1" a="E"><vh>20161209W12</vh>
+<v t="leo.20161209120916.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161209120916.3"><vh>20161202</vh></v>
 </v>
 </v>
 </v>
@@ -129,6 +134,7 @@
 <v t="leo.20161111013824.1"><vh>@edit 20161028.md</vh></v>
 <v t="leo.20161111013830.1"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161118112132.1"><vh>@edit 20161118.md</vh></v>
+<v t="leo.20161209115110.1"><vh>@edit 20161209.md</vh></v>
 </v>
 </v>
 </v>
@@ -679,5 +685,29 @@ def domake():
 # 利用執行緒執行 https 伺服器
 make = threading.Thread(target=domake)
 make.start()</t>
+<t tx="leo.20161209120916.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20161209120916.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209120916.3">## 2016-12-02 第十二週
+
+solvespace 零件繪製
+&lt;iframe src=file:///C:/Users/user/Desktop/block.html width="640" height="437" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src=file:///C:/Users/user/Desktop/bar.html width="640" height="437" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+solvespace 組合圖
+&lt;iframe src=file:///C:/Users/user/Desktop/block%20and%20bar.html width="640" height="437" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
