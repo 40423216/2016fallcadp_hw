@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-12-09T12:19:37-00:00</lastmod>
+<lastmod>2016-12-16T10:11:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-12-09T12:19:37-00:00</lastmod>
+<lastmod>2016-12-16T10:11:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-12-09T12:19:37-00:00</lastmod>
+<lastmod>2016-12-16T10:11:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-12-09T12:19:37-00:00</lastmod>
+<lastmod>2016-12-16T10:11:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about-bg6/</loc>
-<lastmod>2016-12-09T11:39:37+08:00</lastmod>
+<lastmod>2016-12-16T09:46:40+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -116,7 +116,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/zi-mo-zu.html</loc>
+<loc>./tag/shang-ke-nei-rong.html</loc>
+<lastmod>2016-12-09T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/huan-jing-she-ding.html</loc>
+<lastmod>2016-09-30T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/ying-pian-jiang-jie.html</loc>
 <lastmod>2016-10-28T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -130,22 +144,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/ying-pian-jiang-jie.html</loc>
+<loc>./tag/zi-mo-zu.html</loc>
 <lastmod>2016-10-28T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/huan-jing-she-ding.html</loc>
-<lastmod>2016-09-30T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/shang-ke-nei-rong.html</loc>
-<lastmod>2016-12-09T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

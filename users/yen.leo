@@ -703,11 +703,11 @@ make.start()</t>
 <t tx="leo.20161209120916.3">## 2016-12-02 第十二週
 
 solvespace 零件繪製
-&lt;iframe src=file:///C:/Users/user/Desktop/block.html width="640" height="437" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=file:///Y:/tmp/26/data/solvespace/strut.html width="640" height="437" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;iframe src=file:///C:/Users/user/Desktop/bar.html width="640" height="437" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=file:///Y:/tmp/26/data/solvespace/cube.html width="640" height="437" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 solvespace 組合圖
-&lt;iframe src=file:///C:/Users/user/Desktop/block%20and%20bar.html width="640" height="437" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src=file:///Y:/tmp/26/data/solvespace/combination.html width="640" height="437" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
