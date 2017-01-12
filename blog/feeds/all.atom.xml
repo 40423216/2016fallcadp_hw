@@ -44,7 +44,10 @@
 &lt;p&gt;&lt;/p&gt;mechanism tutorial&lt;/p&gt;
 &lt;iframe src="../data/solvespace/Mechanism Tutorial/mechanism tutorial.html" width="800" height="480"&gt;&lt;/iframe&gt;
 &lt;a&gt;&lt;img src="../data/solvespace/Mechanism Tutorial/onshape/ALLIN.PNG"/&gt;&lt;a&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161230W15</title><link href="./20161230w15.html" rel="alternate"></link><updated>2016-12-30T12:00:00+08:00</updated><author><name>40423216</name></author><id>tag:,2016-12-30:./20161230w15.html</id><summary type="html">&lt;p&gt;solvespace 組合圖
-&lt;iframe src="../data/solvespace/base divider side.html" width="800" height="480"&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161223W14</title><link href="./20161223w14.html" rel="alternate"></link><updated>2016-12-23T12:00:00+08:00</updated><author><name>40423216</name></author><id>tag:,2016-12-23:./20161223w14.html</id><summary type="html">&lt;p&gt;近端利用瀏覽器檢查網誌是正常,但是遠端的網誌卻沒有更新,發現推上去的資料出現問題,檢查推送紀錄是一個紅色的叉叉,並求助於同學原來是GITHUB自己做了更新,從網頁來看我多了一個test_data的資料夾,於是進去到相對的目錄,利用指令把它刪掉就可以順利推到遠端,進行網頁的更新&lt;/p&gt;
+&lt;iframe src="../data/solvespace/base divider side.html" width="800" height="480"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;將solvespace檔案拉進去並把http修改成https便可成功顯示在網誌上
+&lt;iframe src="https://player.vimeo.com/video/199158531" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199158531"&gt;https&lt;/a&gt; from &lt;a href="https://vimeo.com/user47853073"&gt;李彥錞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161223W14</title><link href="./20161223w14.html" rel="alternate"></link><updated>2016-12-23T12:00:00+08:00</updated><author><name>40423216</name></author><id>tag:,2016-12-23:./20161223w14.html</id><summary type="html">&lt;p&gt;近端利用瀏覽器檢查網誌是正常,但是遠端的網誌卻沒有更新,發現推上去的資料出現問題,檢查推送紀錄是一個紅色的叉叉,並求助於同學原來是GITHUB自己做了更新,從網頁來看我多了一個test_data的資料夾,於是進去到相對的目錄,利用指令把它刪掉就可以順利推到遠端,進行網頁的更新&lt;/p&gt;
 
 &lt;pre&gt;git rm -r -f plugin/liquid_tags/test_data&lt;/pre&gt;</summary><category term="上課內容"></category></entry><entry><title>20161216W13</title><link href="./20161216w13.html" rel="alternate"></link><updated>2016-12-16T12:00:00+08:00</updated><author><name>40423216</name></author><id>tag:,2016-12-16:./20161216w13.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
 
@@ -62,15 +65,17 @@
 &lt;img src="../data/image/W15-2.png" width="800" /&gt;</summary><category term="3D印表機"></category></entry><entry><title>20161209W12</title><link href="./20161209w12.html" rel="alternate"></link><updated>2016-12-09T12:00:00+08:00</updated><author><name>40423216</name></author><id>tag:,2016-12-09:./20161209w12.html</id><summary type="html">&lt;p&gt;solvespace 零件繪製
 &lt;iframe src="../data/solvespace/cube.html" width="800" height="480"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;SQUARE影片繪製
-&lt;iframe src="https://player.vimeo.com/video/199120620" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;iframe src="../data/solvespace/strut.html" width="800" height="480"&gt;&lt;/iframe&gt;
-
+&lt;iframe src="https://player.vimeo.com/video/199120620" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199120620"&gt;2017 01 12 15 27 00 7&lt;/a&gt; from &lt;a href="https://vimeo.com/user47853073"&gt;李彥錞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src="../data/solvespace/strut.html" width="800" height="480"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;BAR影片繪製
-&lt;iframe src="https://player.vimeo.com/video/199120736" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/199120736" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199120736"&gt;2017 01 12 15 50 20 530&lt;/a&gt; from &lt;a href="https://vimeo.com/user47853073"&gt;李彥錞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;solvespace 組合圖
 &lt;iframe src="../data/solvespace/combination.html" width="800" height="480"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;組合影片
-&lt;iframe src="https://player.vimeo.com/video/199120818" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161125W11</title><link href="./20161125w11.html" rel="alternate"></link><updated>2016-11-25T12:00:00+08:00</updated><author><name>40423216</name></author><id>tag:,2016-11-25:./20161125w11.html</id><summary type="html">&lt;h2&gt;虎科大36週年校慶&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/199120818" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199120818"&gt;2017 01 12 15 53 47 294&lt;/a&gt; from &lt;a href="https://vimeo.com/user47853073"&gt;李彥錞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="上課內容"></category></entry><entry><title>20161125W11</title><link href="./20161125w11.html" rel="alternate"></link><updated>2016-11-25T12:00:00+08:00</updated><author><name>40423216</name></author><id>tag:,2016-11-25:./20161125w11.html</id><summary type="html">&lt;h2&gt;虎科大36週年校慶&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src="../data/image/nfu_36th.png" width="800" /&gt;&lt;/p&gt;</summary><category term="虎科大36週年校慶"></category></entry><entry><title>20161104W10</title><link href="./20161104w10.html" rel="alternate"></link><updated>2016-11-18T12:00:00+08:00</updated><author><name>40423216</name></author><id>tag:,2016-11-18:./20161104w10.html</id><summary type="html">&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;/p&gt;
 

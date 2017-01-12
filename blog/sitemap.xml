@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-01-12T18:08:57-00:00</lastmod>
+<lastmod>2017-01-12T22:01:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-01-12T18:08:57-00:00</lastmod>
+<lastmod>2017-01-12T22:01:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-01-12T18:08:57-00:00</lastmod>
+<lastmod>2017-01-12T22:01:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-01-12T18:08:57-00:00</lastmod>
+<lastmod>2017-01-12T22:01:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -151,21 +151,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/3dyin-biao-ji.html</loc>
-<lastmod>2016-12-16T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/shang-ke-nei-rong.html</loc>
-<lastmod>2017-01-06T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/jie-jue-wen-ti.html</loc>
+<loc>./tag/ying-pian-jiang-jie.html</loc>
 <lastmod>2016-10-28T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -179,15 +165,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/ying-pian-jiang-jie.html</loc>
+<loc>./tag/jie-jue-wen-ti.html</loc>
 <lastmod>2016-10-28T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/zi-mo-zu.html</loc>
-<lastmod>2016-10-28T12:00:00+08:06</lastmod>
+<loc>./tag/shang-ke-nei-rong.html</loc>
+<lastmod>2017-01-06T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/3dyin-biao-ji.html</loc>
+<lastmod>2016-12-16T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -195,6 +188,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tag/hu-ke-da-36zhou-nian-xiao-qing.html</loc>
 <lastmod>2016-11-25T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/zi-mo-zu.html</loc>
+<lastmod>2016-10-28T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
